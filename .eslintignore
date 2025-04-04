@@ -1,0 +1,16 @@
+node_modules/**/*
+.nuxt/**/*
+.output/**/*
+dist/**/*
+public/js/**/*
+public/lib/**/*
+config/featureFlags.js
+cypress/cypress.d.ts
+pnpm-lock.yaml
+README.md
+
+# Onesignal
+OneSignalSDK*
+
+# Service worker
+sw.*

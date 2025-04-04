@@ -1,0 +1,19 @@
+### NuxtJS template
+# Generated dirs
+dist
+public
+.nuxt
+.nuxt-*
+.output
+.gen
+.nitro
+.cache
+README.md
+
+# Node dependencies
+node_modules
+pnpm-lock.yaml
+
+# System files
+*.log
+

@@ -33,7 +33,7 @@ onUnmounted(() => {
 <template>
 	<div
 		ref="box"
-		:style="{ height: computedBoxHeight }"
+		:style="{ height: computedBoxHeight, maxHeight: computedBoxHeight }"
 	>
 		<slot />
 	</div>
